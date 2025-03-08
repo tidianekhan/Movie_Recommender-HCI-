@@ -12,3 +12,5 @@ interface as well as an online questionnaire. The aim of this research proposal 
 the current usability and appearance of the existing user interface. The information gathered
 from this investigation will then go on to improve the existing UI, with as many user
 suggestions incorporated into the final product as possible.
+
+Files include: Report, Questionnaire, LoFi Prototype, HiFi Prototype and more.
